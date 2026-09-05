@@ -1,0 +1,17 @@
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\bin\Debug\net8.0\Business.Photon.deps.json
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\bin\Debug\net8.0\Business.Photon.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\bin\Debug\net8.0\Business.Photon.pdb
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\bin\Debug\net8.0\Abstractions.Photon.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\bin\Debug\net8.0\Data.Photon.Models.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\bin\Debug\net8.0\Abstractions.Photon.pdb
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\bin\Debug\net8.0\Data.Photon.Models.pdb
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\obj\Debug\net8.0\Business.Photon.csproj.AssemblyReference.cache
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\obj\Debug\net8.0\Business.Photon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\obj\Debug\net8.0\Business.Photon.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\obj\Debug\net8.0\Business.Photon.AssemblyInfo.cs
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\obj\Debug\net8.0\Business.Photon.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\obj\Debug\net8.0\Business.CED6A923.Up2Date
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\obj\Debug\net8.0\Business.Photon.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\obj\Debug\net8.0\refint\Business.Photon.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\obj\Debug\net8.0\Business.Photon.pdb
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Business.Photon\obj\Debug\net8.0\ref\Business.Photon.dll

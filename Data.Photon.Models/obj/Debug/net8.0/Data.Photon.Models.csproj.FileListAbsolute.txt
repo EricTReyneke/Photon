@@ -1,0 +1,15 @@
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\bin\Debug\net8.0\Data.Photon.Models.deps.json
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\bin\Debug\net8.0\Data.Photon.Models.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\bin\Debug\net8.0\Data.Photon.Models.pdb
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\bin\Debug\net8.0\Abstractions.Photon.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\bin\Debug\net8.0\Abstractions.Photon.pdb
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\obj\Debug\net8.0\Data.Photon.Models.csproj.AssemblyReference.cache
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\obj\Debug\net8.0\Data.Photon.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\obj\Debug\net8.0\Data.Photon.Models.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\obj\Debug\net8.0\Data.Photon.Models.AssemblyInfo.cs
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\obj\Debug\net8.0\Data.Photon.Models.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\obj\Debug\net8.0\Data.Pho.F229E748.Up2Date
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\obj\Debug\net8.0\Data.Photon.Models.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\obj\Debug\net8.0\refint\Data.Photon.Models.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\obj\Debug\net8.0\Data.Photon.Models.pdb
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Data.Photon.Models\obj\Debug\net8.0\ref\Data.Photon.Models.dll

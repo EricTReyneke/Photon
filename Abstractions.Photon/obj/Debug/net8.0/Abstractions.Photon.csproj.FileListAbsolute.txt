@@ -1,0 +1,11 @@
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Abstractions.Photon\bin\Debug\net8.0\Abstractions.Photon.deps.json
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Abstractions.Photon\bin\Debug\net8.0\Abstractions.Photon.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Abstractions.Photon\bin\Debug\net8.0\Abstractions.Photon.pdb
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Abstractions.Photon\obj\Debug\net8.0\Abstractions.Photon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Abstractions.Photon\obj\Debug\net8.0\Abstractions.Photon.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Abstractions.Photon\obj\Debug\net8.0\Abstractions.Photon.AssemblyInfo.cs
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Abstractions.Photon\obj\Debug\net8.0\Abstractions.Photon.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Abstractions.Photon\obj\Debug\net8.0\Abstractions.Photon.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Abstractions.Photon\obj\Debug\net8.0\refint\Abstractions.Photon.dll
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Abstractions.Photon\obj\Debug\net8.0\Abstractions.Photon.pdb
+C:\Users\Eric\Documents\Eric\NetProjects\Photon\Photon\Abstractions.Photon\obj\Debug\net8.0\ref\Abstractions.Photon.dll
