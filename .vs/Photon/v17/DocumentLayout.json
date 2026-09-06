@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A21E43BC-BEDA-4CEB-A7E2-EFD1BDFA8DC2}|Business.Photon\\Business.Photon.csproj|c:\\users\\eric\\documents\\eric\\netprojects\\photonrepo\\photon\\business.photon\\core\\implementations\\photoncore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21E43BC-BEDA-4CEB-A7E2-EFD1BDFA8DC2}|Business.Photon\\Business.Photon.csproj|solutionrelative:business.photon\\core\\implementations\\photoncore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A21E43BC-BEDA-4CEB-A7E2-EFD1BDFA8DC2}|Business.Photon\\Business.Photon.csproj|c:\\users\\eric\\documents\\eric\\netprojects\\photonrepo\\photon\\business.photon\\querying\\execution\\iqueryexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21E43BC-BEDA-4CEB-A7E2-EFD1BDFA8DC2}|Business.Photon\\Business.Photon.csproj|solutionrelative:business.photon\\querying\\execution\\iqueryexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "PhotonCore.cs",
+              "DocumentMoniker": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Business.Photon\\Core\\Implementations\\PhotonCore.cs",
+              "RelativeDocumentMoniker": "Business.Photon\\Core\\Implementations\\PhotonCore.cs",
+              "ToolTip": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Business.Photon\\Core\\Implementations\\PhotonCore.cs",
+              "RelativeToolTip": "Business.Photon\\Core\\Implementations\\PhotonCore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:52:52.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "QueryExecutor.cs",
               "DocumentMoniker": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Business.Photon\\Querying\\Execution\\QueryExecutor.cs",
               "RelativeDocumentMoniker": "Business.Photon\\Querying\\Execution\\QueryExecutor.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "Business.Photon\\Querying\\Execution\\QueryExecutor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T20:45:34.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-06T20:45:34.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IQueryExecutor.cs",
               "DocumentMoniker": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Business.Photon\\Querying\\Execution\\IQueryExecutor.cs",
               "RelativeDocumentMoniker": "Business.Photon\\Querying\\Execution\\IQueryExecutor.cs",

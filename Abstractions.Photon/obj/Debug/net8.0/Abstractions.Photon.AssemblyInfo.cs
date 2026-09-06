@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Abstractions.Photon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b48ae911771c640ac09d8c6d27b65fe98ec20d3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ddc3c5b9ab5bd03ad8b38a2b79e283b874d3de8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Abstractions.Photon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Abstractions.Photon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

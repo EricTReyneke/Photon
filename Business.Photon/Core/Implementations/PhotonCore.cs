@@ -1,9 +1,11 @@
 ﻿using Business.Photon.Core.Interfaces;
+using Business.Photon.Data.Implementations;
 using Business.Photon.Data.Interfaces;
 using Business.Photon.Metadata.Caching;
 using Business.Photon.Metadata.Generation;
 using Business.Photon.Tables.Generation;
 using Business.Photon.Tables.Models;
+using Business.Photon.Validation.Implementations;
 using Business.Photon.Validation.Interfaces;
 
 namespace Business.Photon.Core.Implementations
