@@ -1,7 +1,8 @@
 ﻿using Business.Photon.Exceptions;
 using Business.Photon.Tables.Models;
+using Business.Photon.Validation.Interfaces;
 
-namespace Business.Photon.Validation
+namespace Business.Photon.Validation.Implementations
 {
     internal class DataValidator : IDataValidator
     {

@@ -1,11 +1,12 @@
-﻿using Business.Photon.Data;
+﻿using Business.Photon.Core.Interfaces;
+using Business.Photon.Data.Interfaces;
 using Business.Photon.Metadata.Caching;
 using Business.Photon.Metadata.Generation;
 using Business.Photon.Tables.Generation;
 using Business.Photon.Tables.Models;
-using Business.Photon.Validation;
+using Business.Photon.Validation.Interfaces;
 
-namespace Business.Photon.Core
+namespace Business.Photon.Core.Implementations
 {
     /// <summary>
     /// Represents the core Photon database engine and manages the

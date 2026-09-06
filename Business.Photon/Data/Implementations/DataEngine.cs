@@ -1,10 +1,11 @@
-﻿using Business.Photon.Exceptions;
+﻿using Business.Photon.Data.Interfaces;
+using Business.Photon.Exceptions;
 using Business.Photon.Metadata.Caching;
 using Business.Photon.Metadata.Models;
 using Business.Photon.Tables.Models;
-using Business.Photon.Validation;
+using Business.Photon.Validation.Interfaces;
 
-namespace Business.Photon.Data
+namespace Business.Photon.Data.Implementations
 {
     internal class DataEngine : IDataEngine
     {

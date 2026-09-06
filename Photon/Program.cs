@@ -1,4 +1,4 @@
-﻿using Business.Photon.Core;
+﻿using Business.Photon.Core.Implementations;
 using Data.Photon.Models.Models;
 
 namespace Photon

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Data.Photon.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b48ae911771c640ac09d8c6d27b65fe98ec20d3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Data.Photon.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Data.Photon.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace Business.Photon.Querying
+namespace Business.Photon.Querying.Builders.Interfaces
 {
     public interface IPhotonQuery<TModel>
     {

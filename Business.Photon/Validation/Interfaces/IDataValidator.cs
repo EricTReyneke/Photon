@@ -1,6 +1,6 @@
 ﻿using Business.Photon.Tables.Models;
 
-namespace Business.Photon.Validation
+namespace Business.Photon.Validation.Interfaces
 {
     internal interface IDataValidator
     {

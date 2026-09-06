@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Business.Photon\\Business.Photon.csproj": {}
+    "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Business.Photon\\Business.Photon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj": {
+    "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj",
+        "projectUniqueName": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj",
         "projectName": "Abstractions.Photon",
-        "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj",
+        "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj",
         "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Abstractions.Photon\\obj\\",
+        "outputPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Abstractions.Photon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Business.Photon\\Business.Photon.csproj": {
+    "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Business.Photon\\Business.Photon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Business.Photon\\Business.Photon.csproj",
+        "projectUniqueName": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Business.Photon\\Business.Photon.csproj",
         "projectName": "Business.Photon",
-        "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Business.Photon\\Business.Photon.csproj",
+        "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Business.Photon\\Business.Photon.csproj",
         "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Business.Photon\\obj\\",
+        "outputPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Business.Photon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,11 +98,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj": {
-                "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj"
+              "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj": {
+                "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj"
               },
-              "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Data.Photon.Models\\Data.Photon.Models.csproj": {
-                "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Data.Photon.Models\\Data.Photon.Models.csproj"
+              "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Data.Photon.Models\\Data.Photon.Models.csproj": {
+                "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Data.Photon.Models\\Data.Photon.Models.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Data.Photon.Models\\Data.Photon.Models.csproj": {
+    "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Data.Photon.Models\\Data.Photon.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Data.Photon.Models\\Data.Photon.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Data.Photon.Models\\Data.Photon.Models.csproj",
         "projectName": "Data.Photon.Models",
-        "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Data.Photon.Models\\Data.Photon.Models.csproj",
+        "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Data.Photon.Models\\Data.Photon.Models.csproj",
         "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Data.Photon.Models\\obj\\",
+        "outputPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Data.Photon.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -170,8 +170,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj": {
-                "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\Photon\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj"
+              "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj": {
+                "projectPath": "C:\\Users\\Eric\\Documents\\Eric\\NetProjects\\PhotonRepo\\Photon\\Abstractions.Photon\\Abstractions.Photon.csproj"
               }
             }
           }

@@ -1,4 +1,4 @@
-﻿namespace Business.Photon.Data
+﻿namespace Business.Photon.Data.Interfaces
 {
     internal interface IDataEngine
     {

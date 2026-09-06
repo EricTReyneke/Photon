@@ -1,4 +1,4 @@
-﻿namespace Business.Photon.Core
+﻿namespace Business.Photon.Core.Interfaces
 {
     /// <summary>
     /// Defines the public operations exposed by the Photon database engine.

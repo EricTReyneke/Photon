@@ -1,7 +1,8 @@
-﻿using Business.Photon.Querying.Expressions;
+﻿using Business.Photon.Querying.Builders.Interfaces;
+using Business.Photon.Querying.Expressions;
 using System.Linq.Expressions;
 
-namespace Business.Photon.Querying
+namespace Business.Photon.Querying.Builders.Implementations
 {
     internal class PhotonQuery<TModel> : IPhotonQuery<TModel>
     {
