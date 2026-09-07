@@ -1,6 +1,11 @@
 ﻿namespace Business.Photon.Querying.Definitions
 {
-    internal class QueryOrderDirection
+    /// <summary>
+    /// Defines the supported ordering directions within a Photon query.
+    /// </summary>
+    internal enum QueryOrderDirection
     {
+        Ascending,
+        Descending
     }
 }
